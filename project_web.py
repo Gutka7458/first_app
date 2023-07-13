@@ -146,7 +146,7 @@ def main():
 
     st.sidebar.header("About")
     st.sidebar.subheader("Shell and tube heat exchanger calculator")
-    st.sidebar.write("internship at orio shanghai pvt.ltd \n\n Project under Mr. Krushan Patel \n\n Thank you for giving me the opportunity")
+    st.sidebar.write("internship at Orio Shanghai Colours Pvt Ltd. \n\n Project under Mr. Krushan Patel \n\n Thank you for giving me the opportunity")
 
 
 if __name__ == "__main__":
